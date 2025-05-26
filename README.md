@@ -10,7 +10,7 @@
 - 👨‍💻 Мердан Махмудов — Backend-разработчик
 - 👩‍🎨 Елькин Егор — Бизнес аналитика и бизнес логика
 - 🔧 Цыпалин Матвей — Team-Lead
-- 👩‍🎨 Марк Фрэнкель - UX/UI и low-code frontend
+- 👩‍🎨 Марк Френкель - UX/UI и low-code frontend
 - 📧 Email: vladislavdremkow@gamil.com
 - 📱 Телефон: +79036130704
 
